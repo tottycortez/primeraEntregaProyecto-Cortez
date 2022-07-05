@@ -1,0 +1,10 @@
+h1{
+    background-color: orange;
+    padding: 60px;
+}
+h2{
+    background-color: rgb(209, 137, 4);
+}
+h1, h2{
+    text-align: center;
+}
